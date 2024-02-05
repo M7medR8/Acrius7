@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Acrius7
+- 👋 Hi, I’m @Acrius
 - 👀 I’m interested in AI and developing software
 - 🌱 I’m currently learning IT 
 <!---- 💞️ I’m looking to collaborate on ...
