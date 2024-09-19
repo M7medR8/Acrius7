@@ -4,9 +4,9 @@
 **Acrius7/Acrius7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-- 👋 Hi, I’m @Acrius
+- 👋 Hi, I’m Mohammed
 - 👀 I’m interested in AI and developing software
-- 🌱 I’m currently learning IT 
+- 🌱 I’m currently Studying IT 
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
